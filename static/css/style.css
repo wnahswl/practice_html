@@ -16,7 +16,7 @@ li{
 header{
     position: absolute;
     color: black;
-    top: 0px;
+    top: 0;
     z-index: 1;
     width: 100%;
     padding: 1rem;

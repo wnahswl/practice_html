@@ -12,7 +12,7 @@ Chrome에 최적화 시킨 프로젝트 입니다. 아래 제시된 프로그램
 - VSCode
     -Live Server
     ##  TO DO
-- [X] 헤더 완성ㅇ
+- [X] 헤더 완성
 - [ ] 나머지
 ## Ref.
 .gitignore
